@@ -19,15 +19,4 @@
     width: 100%;
     height: auto;
   }
-
-  .vimeo {
-    display: none;
-  }
-
-  .youtube {
-    margin-top: -60px;
-    pointer-events: none;
-
-    display: none;
-  }
 }

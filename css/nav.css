@@ -64,9 +64,6 @@ body.nav-is-opened {
 
   .logo {
     color: #000000;
-    display: block;
-    font-size: 12.4542124542vw;
-    font-weight: 100;
     margin-bottom: 3.2967032967vw;
     transform: translateX(-8%);
     will-change: transform;

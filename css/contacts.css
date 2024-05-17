@@ -1,0 +1,22 @@
+.contacts {
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 90vh;
+  min-height: auto;
+
+  .headline {
+    font-size: 6.5934065934vw;
+    font-weight: 300;
+    line-height: 96%;
+    /* opacity: 0; */
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+.media {
+  align-content: center end;
+}

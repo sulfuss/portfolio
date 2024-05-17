@@ -21,6 +21,9 @@ section {
 
 .mix-blend {
   mix-blend-mode: difference;
+  position: fixed;
+  z-index: 2024;
+  display: flex;
 }
 
 .bg {
