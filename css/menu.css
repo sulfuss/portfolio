@@ -11,13 +11,14 @@
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    left: 1000px;
 
     position: relative;
 
-    height: 2.3351648352vw;
-    padding: 0 1.0989010989vw;
+    height: 40px;
+    padding: 0 10px;
 
-    font-size: 0.9157509158vw;
+    font-size: 17px;
     text-transform: capitalize;
     border-radius: 9999em;
 
